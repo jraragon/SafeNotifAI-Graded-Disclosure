@@ -1,0 +1,20 @@
+linear monotone (w>=0) seed=1 weights {'odio': 0.619, 'emocion': 0.378, 'sentimiento': 0.203, 'malsonante': 0.059} cuts t2=0.505 t3=1.666
+   val : P=0.801 E=0.074 B=0.299 I_G=0.295
+   test: P=0.766 E=0.083 B=0.338 I_G=0.333 levels(L0..L3)=[0.667, 0.0, 0.333, 0.0]
+linear monotone (w>=0) seed=2 weights {'odio': 0.968, 'emocion': 0.585, 'sentimiento': 0.293, 'malsonante': 0.103} cuts t2=0.772 t3=2.499
+   val : P=0.801 E=0.074 B=0.299 I_G=0.295
+   test: P=0.764 E=0.083 B=0.338 I_G=0.332 levels(L0..L3)=[0.668, 0.0, 0.332, 0.0]
+linear monotone (w>=0) seed=3 weights {'odio': 0.95, 'emocion': 0.597, 'sentimiento': 0.287, 'malsonante': 0.086} cuts t2=0.768 t3=1.949
+   val : P=0.801 E=0.074 B=0.299 I_G=0.295
+   test: P=0.764 E=0.083 B=0.338 I_G=0.333 levels(L0..L3)=[0.667, 0.0, 0.333, 0.0]
+linear monotone (w>=0): mean test P = 0.765  (range 0.764-0.766)
+linear free (w in [-1,1]) seed=1 weights {'odio': 0.821, 'emocion': 0.555, 'sentimiento': 0.304, 'malsonante': -0.717} cuts t2=0.322 t3=2.702
+   val : P=0.815 E=0.100 B=0.299 I_G=0.399
+   test: P=0.808 E=0.110 B=0.342 I_G=0.442 levels(L0..L3)=[0.558, 0.0, 0.442, 0.0]
+linear free (w in [-1,1]) seed=2 weights {'odio': 0.914, 'emocion': 0.598, 'sentimiento': 0.309, 'malsonante': -0.755} cuts t2=0.346 t3=2.009
+   val : P=0.815 E=0.099 B=0.299 I_G=0.395
+   test: P=0.804 E=0.109 B=0.336 I_G=0.435 levels(L0..L3)=[0.565, 0.0, 0.435, 0.0]
+linear free (w in [-1,1]) seed=3 weights {'odio': 0.719, 'emocion': 0.472, 'sentimiento': 0.242, 'malsonante': -0.596} cuts t2=0.271 t3=2.766
+   val : P=0.815 E=0.099 B=0.299 I_G=0.395
+   test: P=0.804 E=0.109 B=0.337 I_G=0.436 levels(L0..L3)=[0.564, 0.0, 0.436, 0.0]
+linear free (w in [-1,1]): mean test P = 0.805  (range 0.804-0.808)

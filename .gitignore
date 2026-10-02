@@ -1,0 +1,30 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Local secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# External source datasets (not redistributed)
+datos/offendes/

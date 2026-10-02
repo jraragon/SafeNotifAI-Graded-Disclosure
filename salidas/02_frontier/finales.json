@@ -1,0 +1,137 @@
+{
+  "presupuestos": {
+    "FIS (propuesta)": {
+      "0.05": 0.5735,
+      "0.075": 0.7538,
+      "0.1": 0.7538,
+      "0.15": 0.7268,
+      "0.2": 0.7691,
+      "0.25": 0.7691
+    },
+    "max (sistema actual)": {
+      "0.05": 0.5465,
+      "0.075": 0.7283,
+      "0.1": 0.7283,
+      "0.15": 0.7283,
+      "0.2": 0.7283,
+      "0.25": 0.7283
+    },
+    "media ponderada": {
+      "0.05": 0.5884,
+      "0.075": 0.7099,
+      "0.1": 0.7099,
+      "0.15": 0.7099,
+      "0.2": 0.7099,
+      "0.25": 0.7099
+    },
+    "supervisado (logistica)": {
+      "0.05": 0.6056,
+      "0.075": 0.6793,
+      "0.1": 0.6793,
+      "0.15": 0.6793,
+      "0.2": 0.6793,
+      "0.25": 0.6793
+    }
+  },
+  "presupuestos_ganados": [
+    4,
+    6
+  ],
+  "ablacion": [
+    {
+      "configuracion": "completo",
+      "proteccion": 0.7209,
+      "caida": 0.0
+    },
+    {
+      "configuracion": "sin odio",
+      "proteccion": 0.6062,
+      "caida": 0.1147
+    },
+    {
+      "configuracion": "sin emocion",
+      "proteccion": 0.3156,
+      "caida": 0.4053
+    },
+    {
+      "configuracion": "sin sentimiento",
+      "proteccion": 0.472,
+      "caida": 0.2489
+    },
+    {
+      "configuracion": "sin malsonante",
+      "proteccion": 0.6895,
+      "caida": 0.0314
+    }
+  ],
+  "sensibilidad": [
+    {
+      "variacion": "referencia",
+      "exposicion": 0.081,
+      "proteccion": 0.7499,
+      "sobreexp_noe": 0.3162
+    },
+    {
+      "variacion": "cortes de pertenencia sigma=0.02",
+      "exposicion": 0.0802,
+      "proteccion": 0.7455,
+      "sobreexp_noe": 0.3119
+    },
+    {
+      "variacion": "cortes de pertenencia sigma=0.05",
+      "exposicion": 0.0781,
+      "proteccion": 0.7279,
+      "sobreexp_noe": 0.3026
+    },
+    {
+      "variacion": "cortes de pertenencia sigma=0.1",
+      "exposicion": 0.0749,
+      "proteccion": 0.6999,
+      "sobreexp_noe": 0.2929
+    },
+    {
+      "variacion": "peso del indicador = 0.1",
+      "exposicion": 0.0324,
+      "proteccion": 0.7499,
+      "sobreexp_noe": 0.3162
+    },
+    {
+      "variacion": "peso del indicador = 0.4",
+      "exposicion": 0.1296,
+      "proteccion": 0.7499,
+      "sobreexp_noe": 0.3162
+    },
+    {
+      "variacion": "desfuzzificación por centroide",
+      "exposicion": 0.081,
+      "proteccion": 0.7483,
+      "sobreexp_noe": 0.3162
+    }
+  ],
+  "transferencia": [
+    {
+      "metodo": "FIS (propuesta)",
+      "exposicion": 0.0494,
+      "proteccion": 0.5733,
+      "sobreexp_noe": 0.1947
+    },
+    {
+      "metodo": "max (sistema actual)",
+      "exposicion": 0.0488,
+      "proteccion": 0.5714,
+      "sobreexp_noe": 0.2366
+    },
+    {
+      "metodo": "media ponderada",
+      "exposicion": 0.0393,
+      "proteccion": 0.4838,
+      "sobreexp_noe": 0.1718
+    },
+    {
+      "metodo": "supervisado (logistica)",
+      "exposicion": 0.0377,
+      "proteccion": 0.4857,
+      "sobreexp_noe": 0.1718
+    }
+  ]
+}
