@@ -103,6 +103,10 @@ See `LICENSE`.
 External datasets and resources retain their respective original terms and are
 not relicensed by this repository.
 
+## Funding
+
+This work was supported by the CRISIS project (PID2025-172325OB-C33), funded by MICIU/AEI/10.13039/501100011033 and by ERDF, EU.
+
 ## Citation
 
 Citation metadata are provided in `CITATION.cff` and will be updated with the final
