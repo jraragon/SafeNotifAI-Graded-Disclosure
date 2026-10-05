@@ -105,5 +105,5 @@ not relicensed by this repository.
 
 ## Citation
 
-Citation metadata will be provided in `CITATION.cff` and updated with the final
+Citation metadata are provided in `CITATION.cff` and will be updated with the final
 publication and archival DOI when available.

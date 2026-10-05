@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite the associated article."
+title: "SafeNotifAI Graded Disclosure: Reproducibility Package"
+type: software
+
+authors:
+  - family-names: "Alonso Aucejo"
+    given-names: "Fernando"
+
+  - family-names: "Pedraz Galán"
+    given-names: "Rocío"
+
+  - family-names: "Rodríguez-Aragón"
+    given-names: "Jesús F."
+    orcid: "https://orcid.org/0000-0001-7292-610X"
+
+  - family-names: "Grande Pérez"
+    given-names: "Laura"
+    orcid: "https://orcid.org/0009-0004-2994-8628"
+
+  - family-names: "Zato Domínguez"
+    given-names: "Carolina"
+    orcid: "https://orcid.org/0000-0003-3023-8258"
+
+repository-code: "https://github.com/jraragon/SafeNotifAI-Graded-Disclosure"
+license: "GPL-3.0-only"
+
+preferred-citation:
+  type: article
+  title: "Graded Disclosure for Privacy-Aware Parental Supervision: A Decision Framework with an Interpretable Fuzzy Policy"
+  authors:
+    - family-names: "Alonso Aucejo"
+      given-names: "Fernando"
+
+    - family-names: "Pedraz Galán"
+      given-names: "Rocío"
+
+    - family-names: "Rodríguez-Aragón"
+      given-names: "Jesús F."
+      orcid: "https://orcid.org/0000-0001-7292-610X"
+
+    - family-names: "Grande Pérez"
+      given-names: "Laura"
+      orcid: "https://orcid.org/0009-0004-2994-8628"
+
+    - family-names: "Zato Domínguez"
+      given-names: "Carolina"
+      orcid: "https://orcid.org/0000-0003-3023-8258"
