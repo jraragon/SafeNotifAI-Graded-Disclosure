@@ -109,5 +109,6 @@ This work was supported by the CRISIS project (PID2025-172325OB-C33), funded by 
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff` and will be updated with the final
-publication and archival DOI when available.
+Citation metadata are provided in `CITATION.cff`.
+
+Persistent archive DOI: https://doi.org/10.5281/zenodo.23159753

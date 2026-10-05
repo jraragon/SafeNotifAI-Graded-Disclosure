@@ -2,6 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software or reproducibility package, please cite the associated article."
 title: "SafeNotifAI Graded Disclosure: Reproducibility Package"
 type: software
+version: "1.0.0"
+date-released: 2026-10-05
+doi: "10.5281/zenodo.23159754"
 
 authors:
   - family-names: "Alonso Aucejo"
